@@ -1,0 +1,47 @@
+
+     @import url('https://fonts.googleapis.com/css2?family=Bytesized&display=swap');
+       body{
+        background-color: #252525;
+       }
+       header{
+         padding: 16px;
+         border-bottom: 0.5px solid #333;
+         background-color: rgba(0, 0, 0, 0.1);
+         text-align: center;
+        
+
+       }
+       *{
+        margin: 0;
+        padding: 0;
+        border:0 ;
+        
+       }
+       header div a {
+        transition: 1000ms color;
+        font-family: "Bytesized", sans-serif;
+         font-weight: 400;
+         font-style: normal;
+        background-color:rgba(0,0, 0, 0.0);
+        text-align: center;
+        padding: 16px;
+        color: whitesmoke;
+        line-height: 30px;
+        margin:0px 25px;
+        text-decoration: none;
+        font-size: 16px;     
+        content: 10px;  
+        padding:15px;   
+        border: 30px;
+        border-color: aqua ;  
+}     
+
+        header div a:hover{
+         color :cadetblue;
+         font-size: 20px ;
+         transition : 1000ms color;
+        }
+
+
+      
+    
